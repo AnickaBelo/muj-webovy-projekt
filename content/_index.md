@@ -2,26 +2,16 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+# **Ve svém závěrečném projektu bych chtěla čtenáře seznámit s ochotnickým divadlem v Křenovicích, které je součástí naší venkovské kultury již od roku 1905.**
 
-This are the contents of the Hugo start website front page.
+Naše chotnické divadlo vzniklo v roce 1905 a s přestávkami (v historii) funguje dodnes. Jeho historie je velice zajímavá, ve svém okolí patří mezi nejstarší divadelní spolky. Spolek divadla Antonína Vorla navazuje na ochotnická divadla jejichž historie sahá až k r. 1888
 
-## Something to read: Sonnet LXVI.
+Divadlo vzniklo v roce 1905, ale několikrát se během té doby umlčelo. Důvodem byly hlavně světové války.
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Po delší odmlce se v roce 1982 hlásí k práci mladší generace. Nejprve se odehraje několik pohádek a repertoár se začíná měnit. Z programu Večerního Brna se odehrála hra Drak je drak a Hamlet IV. S tímto představením vznikají problémy s STB a hrozil zákaz činnosti.
+
+
+https://divadloav.webnode.cz/
+http://www.obec-krenovice.cz/zivot-v-obci/spolek-divadla-antonina-vorla
+http://www.amaterskedivadlo.cz/main.php?data=soubor&id=15993
 
