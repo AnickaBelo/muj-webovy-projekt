@@ -1,8 +1,7 @@
 ---
-title: Home
+title: Divadlo Antonína Vorla
 ---
-
-# **Ve svém závěrečném projektu bych chtěla čtenáře seznámit s ochotnickým divadlem v Křenovicích, které je součástí naší venkovské kultury již od roku 1905.**
+Ve svém závěrečném projektu bych chtěla čtenáře seznámit s ochotnickým divadlem v Křenovicích, které je součástí naší venkovské kultury již od roku 1905.
 
 Naše chotnické divadlo vzniklo v roce 1905 a s přestávkami (v historii) funguje dodnes. Jeho historie je velice zajímavá, ve svém okolí patří mezi nejstarší divadelní spolky. Spolek divadla Antonína Vorla navazuje na ochotnická divadla jejichž historie sahá až k r. 1888
 
